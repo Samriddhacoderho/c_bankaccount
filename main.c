@@ -5,8 +5,6 @@
 #include "login.c"
 #include "choice.c"
 
-//Trying a new thing
-
 int main()
 {
     char def_email[30] = "satyalsamriddha@gmail.com";
