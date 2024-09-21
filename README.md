@@ -1,1 +1,1 @@
-Run from the main.c file
+# Run from the main.c file
