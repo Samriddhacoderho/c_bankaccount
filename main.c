@@ -5,7 +5,7 @@
 #include "login.c"
 #include "choice.c"
 
-//Testing of feature 1
+//Test of feature 1
 
 int main()
 {
