@@ -6,7 +6,6 @@
 #include "choice.c"
 
 
-
 int main()
 {
     char def_email[30] = "satyalsamriddha@gmail.com";
@@ -14,4 +13,5 @@ int main()
 
     login(def_email,def_pin);
     choice(def_email,def_pin);
+    printf("\nThank you for choosing our service!\n");
 }
